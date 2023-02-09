@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T00:30:31Z" name="Default suite" finished-at="2022-12-02T00:31:19Z" duration-ms="47536">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T00:30:31Z" name="Default test" finished-at="2022-12-02T00:31:19Z" duration-ms="47536">
+      <class name="com.acti.testcase.LoginPageTC">
+        <test-method signature="testLoginPageTitle()[pri:1, instance:com.acti.testcase.LoginPageTC@c7ba306]" started-at="2022-12-02T00:30:31Z" name="testLoginPageTitle" finished-at="2022-12-02T00:30:35Z" duration-ms="3581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPageTitle -->
+        <test-method signature="testActiImageIsDisplayed()[pri:2, instance:com.acti.testcase.LoginPageTC@c7ba306]" started-at="2022-12-02T00:30:35Z" name="testActiImageIsDisplayed" finished-at="2022-12-02T00:30:38Z" duration-ms="3129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActiImageIsDisplayed -->
+        <test-method signature="testForgotPassowrdIsDisplayed()[pri:3, instance:com.acti.testcase.LoginPageTC@c7ba306]" started-at="2022-12-02T00:30:38Z" name="testForgotPassowrdIsDisplayed" finished-at="2022-12-02T00:30:57Z" duration-ms="19310" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForgotPassowrdIsDisplayed -->
+        <test-method signature="testLoginFunction()[pri:4, instance:com.acti.testcase.LoginPageTC@c7ba306]" started-at="2022-12-02T00:30:57Z" name="testLoginFunction" finished-at="2022-12-02T00:31:19Z" duration-ms="21488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginFunction -->
+      </class> <!-- com.acti.testcase.LoginPageTC -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
